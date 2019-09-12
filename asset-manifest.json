@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/React-Iran-Tour/static/css/main.369df3e9.chunk.css",
+    "main.js": "/React-Iran-Tour/static/js/main.667266e4.chunk.js",
+    "main.js.map": "/React-Iran-Tour/static/js/main.667266e4.chunk.js.map",
+    "runtime~main.js": "/React-Iran-Tour/static/js/runtime~main.ad50440d.js",
+    "runtime~main.js.map": "/React-Iran-Tour/static/js/runtime~main.ad50440d.js.map",
+    "static/js/2.c0210f73.chunk.js": "/React-Iran-Tour/static/js/2.c0210f73.chunk.js",
+    "static/js/2.c0210f73.chunk.js.map": "/React-Iran-Tour/static/js/2.c0210f73.chunk.js.map",
+    "index.html": "/React-Iran-Tour/index.html",
+    "precache-manifest.27eedddb318fb446066439ee08a7e914.js": "/React-Iran-Tour/precache-manifest.27eedddb318fb446066439ee08a7e914.js",
+    "service-worker.js": "/React-Iran-Tour/service-worker.js",
+    "static/css/main.369df3e9.chunk.css.map": "/React-Iran-Tour/static/css/main.369df3e9.chunk.css.map",
+    "static/media/ToursSection.scss": "/React-Iran-Tour/static/media/nat-7.100bc817.jpg",
+    "static/media/Header.scss": "/React-Iran-Tour/static/media/cheetah.f062f388.jpg",
+    "static/media/guideOne.jpeg": "/React-Iran-Tour/static/media/guideOne.466a0955.jpeg",
+    "static/media/logo-white.png": "/React-Iran-Tour/static/media/logo-white.40d4ef82.png",
+    "static/media/nat-1.jpg": "/React-Iran-Tour/static/media/nat-1.f4b66255.jpg",
+    "static/media/FormSection.scss": "/React-Iran-Tour/static/media/nat-10.cb31a1e7.jpg",
+    "static/media/nat-2.jpg": "/React-Iran-Tour/static/media/nat-2.0eb40f13.jpg",
+    "static/media/nat-3.jpg": "/React-Iran-Tour/static/media/nat-3.ea3feab9.jpg",
+    "static/media/Testimonial.scss": "/React-Iran-Tour/static/media/nat-4.1f309de8.jpg",
+    "static/media/p1.png": "/React-Iran-Tour/static/media/p1.f26015f9.png",
+    "static/media/p2.png": "/React-Iran-Tour/static/media/p2.11cbfd4e.png",
+    "static/media/p3.png": "/React-Iran-Tour/static/media/p3.56aa413b.png",
+    "static/media/video.mp4": "/React-Iran-Tour/static/media/video.54ceb0f1.mp4"
+  }
+}
