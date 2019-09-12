@@ -1,0 +1,44 @@
+@import '_mixins';
+
+*,
+*::after,
+*::before {
+	margin: 0;
+	padding: 0;
+	box-sizing: inherit;
+}
+
+html {
+	font-size: 62.5%;
+
+	@include respond(tab-land) {
+		font-size: 56.25%;
+	}
+
+	@include respond(tab-port) {
+		font-size: 50%;
+	}
+
+	@include respond(big-desktop) {
+		font-size: 75%;
+	}
+}
+
+body {
+	font-family: 'Vazir';
+	font-weight: 400;
+	line-height: 1.7;
+	color: $color-grey-dark;
+	padding: 3rem;
+	box-sizing: border-box;
+	direction: rtl;
+
+	@include respond(tab-port) {
+		padding: 0;
+	}
+}
+
+::selection {
+	background-color: $color-primary;
+	color: #f7f7f7;
+}
